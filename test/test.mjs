@@ -1,4 +1,4 @@
-import { Node, LinkedList } from "./linked-list.mjs";
+import { Node, LinkedList } from "../linked-list.mjs";
 
 let node1 = new Node(1);
 let node2 = new Node(2);

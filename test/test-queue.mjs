@@ -1,4 +1,4 @@
-import { Queue } from "./queue.mjs";
+import { Queue } from "../src/queue.mjs";
 
 let queue = new Queue();
 
